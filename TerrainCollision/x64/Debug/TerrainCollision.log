@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Raylib\TerrainCollision\TerrainCollision\TerrainCollision\main.cpp(74,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Raylib\TerrainCollision\TerrainCollision\TerrainCollision\main.cpp(74,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  TerrainCollision.vcxproj -> C:\Raylib\TerrainCollision\TerrainCollision\x64\Debug\TerrainCollision.exe
